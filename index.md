@@ -2,7 +2,7 @@
 The goal of this github organtization is to:
 1. Create tools to analyze historical financial data in a way that is logical and produces referencable data  
 2. Encourage collaboration and spread ideas
-3. Use historically inferred statistical data to make good future financial decisions 
+3. Use historically inferred statistical data to make good future financial decisions  
 
 # Programs
 
