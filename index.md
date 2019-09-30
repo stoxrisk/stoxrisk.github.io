@@ -138,7 +138,7 @@ I think selling some bearish options would be a smart move here, pending a fragi
 
 python ./visualize_change.py [SYMBOL] [DAYS To Measure] [Date to have data begin at]
 
-## Configurable Backtester (Early In-Progress)
+## [Configurable Backtester (Early In-Progress)](https://github.com/stoxrisk/Backtesting-Engine)
 
 ### Objective
 The objective of this program is to provide a super easy interface for backtesting using configuration files. The end goal of this program will be to create or modify configuration files that describe a strategy to backtest on, analyze the data, and then autotrade that strategy for you on current data.
