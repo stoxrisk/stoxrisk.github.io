@@ -62,10 +62,6 @@ Recommended Higher Strike: 297.000000
 ```
 Being bullish on this I'd probably sell a credit spread with strikes around -5% and buy a debit spread with strikes around current price given this current data.
 
-You can use the [editor on GitHub](https://github.com/stoxrisk/stoxrisk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Usage
 * Be sure to first install all that is required in requirements.txt *
 
